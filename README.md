@@ -1,7 +1,7 @@
 
 <h1 align="center" >Hola, soy John👋, Especialista SEO | Diseñador Web | Programador👨🏻‍💻💻⚡</h1>
 
-<img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEHfkW9f5Sciw/profile-displaybackgroundimage-shrink_350_1400/0/1651694096275?e=1658361600&v=beta&t=eS9tH8eVrQOAH1LR22NOSjvuGutITE17L0HAcyasjHw" alt="Img profile" min-width="40" min-height="20"/>
 
 
 

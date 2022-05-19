@@ -3,7 +3,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEHfkW9f5Sciw/profile-displaybackgroundimage-shrink_350_1400/0/1651694096275?e=1658361600&v=beta&t=eS9tH8eVrQOAH1LR22NOSjvuGutITE17L0HAcyasjHw" alt="Img profile" min-width="40" min-height="20"/>
 
-
+<h3 align="center">I am a 38-year-old Colombian lover of technology. I am currently focused on SEO, Web Design and full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. In this year 2022, I rediscovered my passion for programming and I am managing to obtain a full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
 
 - 📝 Actualmente estoy aprendiendo **React Native** y reforzando **ReactJS.**
 - 📩 Contáctame **john.carrillo.dolugar@gmail.com**

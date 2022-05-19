@@ -3,7 +3,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEHfkW9f5Sciw/profile-displaybackgroundimage-shrink_350_1400/0/1651694096275?e=1658361600&v=beta&t=eS9tH8eVrQOAH1LR22NOSjvuGutITE17L0HAcyasjHw" alt="Img profile" min-width="40" min-height="20"/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=jcado&color=2685BF)
+
 
 - 📝 Actualmente estoy aprendiendo **React Native** y reforzando **ReactJS.**
 - 📩 Contáctame **john.carrillo.dolugar@gmail.com**
@@ -29,8 +29,17 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jrcarrillo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jrcarrillo/" height="30" width="40" /></a>
 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcado&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcado" /></p>
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcado&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcado&theme=dark" alt="bryancpineda" /></p>
+
+</br>
+<h4>Visitor's :eyes:</h4>
+
+
+![GitHub Views"](https://komarev.com/ghpvc/?username=jcado&color=2685BF)
 
 <!--
 **jcado/jcado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

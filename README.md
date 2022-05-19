@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<h1 align="center" >Hola, soy John👋, Especialista SEO | Diseñador Web | Programador👨🏻‍💻💻⚡</h1>
+
+<img src="https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png" alt="Img profile" min-width="40" min-height="20"/>
+
+
+
 
 <!--
 **jcado/jcado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
